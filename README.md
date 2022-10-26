@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barbaros IŞIK
-- 👀 I’m interested in Mobile Programming, Game Development and AR-VR Technologies
-- 🌱 I’m currently learning Unity Engine and Swift
+- 👀 I’m interested in Front-End Development, Mobile Programming and AR-VR Technologies
+- 🌱 I’m currently learning Angular.js and Swift
 - 📫 To contact me, here is my mail address: barbarosisik7@gmail.com
