@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barbaros IŞIK
 - 👀 I’m interested in Data Science, Mobile Programming and AR-VR Technologies
-- 🌱 I’m currently learning React, Angular.js and Swift
+- 🌱 I’m currently learning Data Science
 - 📫 To contact me, here is my mail address: barbarosisik7@gmail.com
